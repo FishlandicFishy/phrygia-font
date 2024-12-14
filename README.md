@@ -11,7 +11,7 @@ that's basically it
 ## Notes
 
 * The regular italic font has a broken line height. I do not know how to fix this and I do not expect to be fixing this.
-* It is not recommended to use the TTC font.
+* It is not recommended to use the TTC font. As of v1.000 it only includes the Italic and Bold Italic fonts, and this may or may not be fixed in due course.
 
 ## Downloads
 
