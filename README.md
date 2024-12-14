@@ -4,7 +4,7 @@
 
 # Phrygia Font
 
-***OFL-licensed font based on Galatia SIL, XITS, and others***
+***Times-like OFL font***
 
 that's basically it
 
