@@ -18,6 +18,7 @@ that's basically it
 
 ## Full list of credits
 
+```
 [Galatia SIL, Doulos SIL]
 Copyright (c) SIL International (http://www.sil.org/), 1995-2009. All rights reserved.
 
@@ -35,3 +36,4 @@ Copyright (c) 2024 Plangothic by Fitzgerald P. Koenigsegg, from Source Han Sans 
 
 [Fairfax HD]
 Copyright (c) Kreative Software 2017-2024 under the Open Font License.
+```
