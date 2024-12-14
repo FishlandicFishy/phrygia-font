@@ -17,7 +17,7 @@ that's basically it
 
 You can either go to phrygia-font/fonts to find the files, or refer to the Releases.
 
-## Full list of credits
+## Credits
 
 ```
 [Galatia SIL, Doulos SIL]
