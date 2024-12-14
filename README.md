@@ -1,4 +1,4 @@
-![Phrygia Font](https://github.com/user-attachments/assets/b53b3239-1d7b-4649-9931-6c6e2a9c5466)
+![image](https://github.com/user-attachments/assets/1bd95cfc-581a-4015-b30f-60c8b59aa1d3)
 
 ---
 
