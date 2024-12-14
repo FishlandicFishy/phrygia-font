@@ -38,3 +38,9 @@ Copyright (c) 2024 Plangothic by Fitzgerald P. Koenigsegg, from Source Han Sans 
 [Fairfax HD]
 Copyright (c) Kreative Software 2017-2024 under the Open Font License.
 ```
+
+## Legal Disclaimer
+
+This font is licensed under the OFL.
+
+I am not responsible for any damages caused by using this font, including (but not limited to) inaccuracies in certain glyphs. (If you do find such inaccuracies, please create an issue.)
