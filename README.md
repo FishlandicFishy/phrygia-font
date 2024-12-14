@@ -11,6 +11,7 @@ that's basically it
 ## Downloads
 
 | Weight | Download |
+| --- | --- |
 | Regular | / |
 | Italic | / |
 | Bold | / |
