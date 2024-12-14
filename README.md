@@ -10,7 +10,7 @@ that's basically it
 
 ## Notes
 
-As you can see, the regular italic font is kinda broken. I do not know how to fix this and I do not expect to be fixing this.
+As you can see, the regular italic font has a broken line height. I do not know how to fix this and I do not expect to be fixing this.
 
 ## Downloads
 
