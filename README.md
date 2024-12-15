@@ -15,7 +15,7 @@ that's basically it
 
 ## Downloads
 
-You can ~~either go to phrygia-font/fonts to find the files, or~~ refer to the Releases.
+Please refer to the Releases. The most up-to-date version is v1.001 Hotfix.
 
 ## Credits
 
