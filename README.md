@@ -8,6 +8,10 @@
 
 that's basically it
 
+## Notes
+
+* The regular font is preferred as it has more glyphs. Please refrain from using the other weights unless when necessary.
+
 ## Downloads
 
 You can ~~either go to phrygia-font/fonts to find the files, or~~ refer to the Releases.
