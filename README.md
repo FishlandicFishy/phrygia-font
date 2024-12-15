@@ -15,7 +15,7 @@ that's basically it
 
 ## Downloads
 
-Please refer to the Releases. The most up-to-date version is v1.001 Hotfix.
+Please refer to the Releases.
 
 ## Credits
 
