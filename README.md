@@ -11,7 +11,7 @@ that's basically it
 ## Notes
 
 * The regular font is preferred as it has more glyphs. Please refrain from using the other weights unless when necessary.
-* Phrygia is not *yet* metric-compatible with Times New Roman.
+* Phrygia is not *yet* metric-compatible with Times New Roman. I plan to make this happen though.
 
 ## Downloads
 
